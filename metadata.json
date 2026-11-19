@@ -1,0 +1,8 @@
+{
+  "name": "FrameTrim — Photo & Video Cleanup Studio",
+  "description": "Analyze Google Photos and local media libraries across 15 automated cleanup categories and batch-convert images and videos to compact, high-quality formats with space-savings estimates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
